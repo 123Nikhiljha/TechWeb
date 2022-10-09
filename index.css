@@ -1,0 +1,15 @@
+@media (max-width: 768px) {
+    .btn {
+        margin-top: 4%;
+
+    }
+
+    .Login {
+        margin-left: 5%;
+    }
+
+    .d-block {
+        max-width: 100%;
+        height: auto;
+    }
+}
